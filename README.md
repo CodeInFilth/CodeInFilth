@@ -79,5 +79,6 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 
 
 <p align="center">
-  <img width="1080px" height="325px" src="github-readme-stats-filthy.vercel.app/api/skills?languages=js,php,python,html,css,bash,xml,json,postgresql,mysql,powershell,x86,arm">
+  <img width="1080px" height="325px" src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,bash,xml,json,postgresql,mysql,powershell,x86,arm">
 </p>
+
