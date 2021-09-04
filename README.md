@@ -1,3 +1,5 @@
+`Currently finishing the Aurora Trading website update & Bots`
+
 <a href="https://github.com/CodeInFilth">
   <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
 </a>
@@ -54,7 +56,7 @@
 <!--- ddivider PSD  ??  -->
 <a href="https://github.com/CodeInFilth"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
 <!-- -->
-Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
+Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
 
 ```
 💻 Operating Systems
@@ -62,7 +64,7 @@ Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 Mac OS 10.16              ███████████████████░░░░░░    85.0% 
 Ubuntu 18.04              ████░░░░░░░░░░░░░░░░░░░░░    15.0% 
 
-⚡ Editors
+⚡ Software Usage
 ---
 Coda 2                    ███████████░░░░░░░░░░░░░░    47.05%
 Terminal                  ██████░░░░░░░░░░░░░░░░░░░    24.49%
@@ -71,10 +73,10 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 ```
 
 <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
-  <img align="left" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=trash">
+  <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=trash">
 </a>
 <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
-  <img align="left" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=trash">
+  <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=trash">
 </a>
 
 
