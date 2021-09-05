@@ -1,10 +1,19 @@
-<a href="https://github.com/CodeInFilth">
-  <img align="center" width="1080px" height="125px" src="https://readme-typing-svg.herokuapp.com?font=Lato&color=CFCFCF&size=52&center=true&vCenter=true&width=710&height=150&lines=Full+Stack+Web+Developer+++++++++++++++;Over+10+Years+of+Expereience+++++++++++++++++++;Background+in+Graphic+Design++++++++++++++;Strive+to+continue+learning+++++++++++++++++++++">
-</a>
+```
+   ▄████████  ▄█   ▄█           ███        ▄█    █▄    ▄██   ▄         ███        ▄████████  ▄████████    ▄█    █▄    
+  ███    ███ ███  ███       ▀█████████▄   ███    ███   ███   ██▄   ▀█████████▄   ███    ███ ███    ███   ███    ███   
+  ███    █▀  ███▌ ███          ▀███▀▀██   ███    ███   ███▄▄▄███      ▀███▀▀██   ███    █▀  ███    █▀    ███    ███   
+ ▄███▄▄▄     ███▌ ███           ███   ▀  ▄███▄▄▄▄███▄▄ ▀▀▀▀▀▀███       ███   ▀  ▄███▄▄▄     ███         ▄███▄▄▄▄███▄▄ 
+▀▀███▀▀▀     ███▌ ███           ███     ▀▀███▀▀▀▀███▀  ▄██   ███       ███     ▀▀███▀▀▀     ███        ▀▀███▀▀▀▀███▀  
+  ███        ███  ███           ███       ███    ███   ███   ███       ███       ███    █▄  ███    █▄    ███    ███   
+  ███        ███  ███▌    ▄     ███       ███    ███   ███   ███       ███       ███    ███ ███    ███   ███    ███   
+  ███        █▀   █████▄▄██    ▄████▀     ███    █▀     ▀█████▀       ▄████▀     ██████████ ████████▀    ███    █▀    
+                  ▀                                                                                                    
+```
 
 <a href="https://github.com/CodeInFilth">
   <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
 </a>
+
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Editor-HTML5-informational?style=flat&logo=html5&logoColor=white&color=aeb5bc">
@@ -23,7 +32,17 @@
   <img align="center" src="https://img.shields.io/badge/Tool-NPM-CB3837?style=flat&logo=npm&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Code-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white&color=aeb5bc">
 <!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=TypeScript&logoColor=aeb5bc" /> -->
-  </p>
+</p>
+
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/-🩸%20Heartbleed-000">
+  <img align="center" src="https://img.shields.io/badge/-🌊%20SYN%20Flood-000">
+  <img align="center" src="https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000">
+  <img align="center" src="https://img.shields.io/badge/-💉%20SQL%20Injection-000">
+  <img align="center" src="https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000">
+  <img align="center" src="https://img.shields.io/badge/-🌐%20Network%20Tools-000">
+</p>
+
   <p align="center">
    <a target="_blank" rel="noopener noreferrer" href="#">
       <img align="center" src="https://img.shields.io/badge/Buy%20me%20Coffee-%24%20USD?color=28648a">
@@ -51,6 +70,35 @@
   <img align="center" src="https://img.shields.io/website?down_color=Red&down_message=Aurora%20Trading%20%5B%20Offline%20%5D&badge&up_color=Green&up_message=Aurora%20Trading%20%5B%20Online%20%5D&url=http%3A%2F%2Fauroratrades.com%2F">
 </p>
 
+
+<h2 align="left">Aurora Trading</h2>
+
+<p>
+  <img width="250" align='right' src="https://auroratrades.com/logo_icon.png">
+  
+  <a aligh="right">
+        Aurora Trading is a community that takes pride in not just forcing alerts out to members and expecting a sheep-like following; but instead equipping YOU with the necessary tools :tools: and strategies :pencil: required to grant long-term financial freedom :money_with_wings: and portfolio growth to any willing individual :chart_with_upwards_trend: . Success isn’t an overnight game, however, you are giving yourself a much better shot by joining us.
+   </a>
+</p>
+
+<br/>
+
+## 🌤 Featured Projects
+<p align="center">
+  <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=trash">
+  </a>
+  <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=trash">
+  </a>
+</p>
+
+<!-- continued projects insert--->
+
+
+<br/><br/>
+
+
 <!--- ddivider PSD  ??  -->
 <a href="https://github.com/CodeInFilth"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
 <!-- -->
@@ -73,24 +121,6 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 
 ```
 
-
-## 🌤 Highlight Projects
-<a href="https://github.com/CodeInFilth/Auto-DM-Discord">
-  <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=trash">
-</a>
-<a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
-  <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=trash">
-</a>
-
-
-<p align="center">
-  <img width="1080px" height="325px" src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,bash,xml,json,postgresql,mysql,powershell,x86,arm">
-</p>
-
-<!--
-## 🏆 GitHub Trophies
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CodeInFilth&theme=nord&column=7" alt="DA-RNN" />
-</a>
-
--->
+---
+<p align="center">This <i>README</i> file is created by hand <b>every 2 weeks</b>!</br>Last edit: Saturday, 4 September, 23:04 CEST</p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/></p>
