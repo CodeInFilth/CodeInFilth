@@ -1,3 +1,10 @@
+<!-- 
+<a href="https://github.com/CodeInFilth">
+  <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
+</a>
+ -->
+
+
 ```
    ▄████████  ▄█   ▄█           ███        ▄█    █▄    ▄██   ▄         ███        ▄████████  ▄████████    ▄█    █▄    
   ███    ███ ███  ███       ▀█████████▄   ███    ███   ███   ██▄   ▀█████████▄   ███    ███ ███    ███   ███    ███   
@@ -9,11 +16,6 @@
   ███        █▀   █████▄▄██    ▄████▀     ███    █▀     ▀█████▀       ▄████▀     ██████████ ████████▀    ███    █▀    
                   ▀                                                                                                    
 ```
-
-<a href="https://github.com/CodeInFilth">
-  <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
-</a>
-
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Editor-HTML5-informational?style=flat&logo=html5&logoColor=white&color=aeb5bc">
