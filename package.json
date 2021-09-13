@@ -1,0 +1,9 @@
+{
+  "name": "CodeInFilth Profile Page",
+  "version": "1.0.0",
+  "description": "CodeInFilth Profile Page Scripts and files",
+  "main": "README.md",
+  "keywords": ["Homepage, Profile, widgets, github"],
+  "author": "CodeInFilth",
+  "license": "MIT"
+}
