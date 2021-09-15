@@ -4,7 +4,7 @@
 </a>
  -->
 
-```BASH
+```text
                 :      :s     .       .         
                  :                 .     .      
             .sl. ,     .       ..                    
@@ -131,7 +131,7 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/gif/basicProfile.gif" height="225px"/>
 
 
-```BASH
+```text
 💻 Operating Systems
 ---
 Mac OS 10.16              ███████████████████░░░░░░    85.0% 
