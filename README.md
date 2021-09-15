@@ -14,7 +14,7 @@
         .dP§""§Ў$$$$$$$$$$$$$$$$$$$$$$$$$$b    | | |_ | | __| '_ \| | | | '_ \  |  ___/ '__/ _ \|  _| | |/ _ \
         "'.,s. i$$$$$x$$$$$$$$$$$$$$§$$$$$$	   | |__| | | |_| | | | |_| | |_) | | |   | | | (_) | | | | |  __/
        .dS$$$$ :$$8$$$$$$$$$$$$$$$$l `§Ў$$$     \_____|_|\__|_| |_|\__,_|_.__/  |_|   |_|  \___/|_| |_|_|\___|
-      .dS$$$$$: $888$$8$$$$$$$$$$$$'ls,.`§l                                                           
+      .dS$$$$$: $888$$8$$$$$$$$$$$$'ls,.`§l     ~ Filthy_Trading#4878            ~ CodeInFilth Profolio V1:
 ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  ____ ____ ____ ____ ____ ____ _____  _ ____
 ==== l$$$$$§"'  i$888$$8$x$888$$$$'l$$§$Џ' ==============================::::::::::':d$$*"' `:: :$$8$$l d$SЏ$$$$$$ :$§".,s
    :$$$$$888$$8$$Si8$$$$8$x$8$$ i$, d$l      
@@ -29,9 +29,9 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
       $$8$bs,..`""§ЏS$$S'.d$l "          ░        ░ ░ ░ ▒   ░ ░  ░    ░       ▒ ░   ░   ░ ░     ░ ░    ▒ ░  ░ ░   ░       ░  ░░ ░
       :$$888$$$S4bs,.`'',d$$: i:         ░          ░ ░     ░       ░  ░    ░           ░            ░      ░  ░        ░  ░  ░
       `4$$88$"§Ў$$$$$Sbsd$$$ i:        
-       `4$$8$Sbs,d"$$$888$$n '   
-        `4$$$8888x$$$88$$$S"
-          `4$$$8888$$$SЏ§"'
+       `4$$8$Sbs,d"$$$888$$n '         
+        `4$$$8888x$$$88$$$S"           
+          `4$$$8888$$$SЏ§"'            
             `"§ЎSSSЏ§"'         
 
 ```
@@ -95,7 +95,7 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
 <h2 align="left">Aurora Trading</h2>
 
 <p>
-  <img width="250" align='right' src="https://auroratrades.com/logo_icon.png">
+  <img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png">
   
   <a aligh="right">
         Aurora Trading is a community that takes pride in not just forcing alerts out to members and expecting a sheep-like following; but instead equipping YOU with the necessary tools :tools: and strategies :pencil: required to grant long-term financial freedom :money_with_wings: and portfolio growth to any willing individual :chart_with_upwards_trend: . Success isn’t an overnight game, however, you are giving yourself a much better shot by joining us.
@@ -125,10 +125,10 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
 
 <!--- ddivider PSD  ??  -->
 <a href="https://github.com/CodeInFilth"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
-<!-- -->
-Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="225px"/>
+🗃Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/gif/basicProfile.gif" height="225px"/>
 
 
 ```BASH
@@ -147,5 +147,8 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 ```
 
 ---
-<p align="center">This <i>README</i> file is created by hand <b>every 2 weeks</b>!</br>Last edit: Saturday, 4 September, 23:04 CEST</p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/></p>
+<p align="center">This <i>README</i> file is created by hand</br>Last edit: Saturday, 15 September, 03:50 PST</p>
+
+<!--
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/>
+-->
