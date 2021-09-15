@@ -76,10 +76,10 @@
   <br/>
   <p align="center">
       <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
-        <img align="center" width="425px" src="https://github-readme-stats-1skrho0bh-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue">
+        <img align="center" width="425px" src="https://github-readme-stats-4lfaexeu8-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue">
       </a>
       <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
-        <img align="center" width="425px" src="https://github-readme-stats-1skrho0bh-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue">
+        <img align="center" width="425px" src="https://github-readme-stats-4lfaexeu8-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue">
       </a>
   </p>
 </details>
