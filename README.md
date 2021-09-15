@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
+=======
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+>>>>>>> 7ca5c681b73f0aef4d80006394d5971d8b3faef1
 ```text
 
                                           · S O U R C E  2 O 2 1 ·
@@ -11,7 +16,10 @@
                ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀                                      ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ 
                                      -[*] please star any of my work! [*]-
                                     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+<<<<<<< HEAD
                                     
+=======
+>>>>>>> 7ca5c681b73f0aef4d80006394d5971d8b3faef1
 ```
 
 
@@ -73,12 +81,34 @@
 
 <br/>
 
+<<<<<<< HEAD
 <details>
   <summary>🌤&nbsp;Featured Projects</summary>
   <br/>
 <p align="center"><a href="https://github.com/CodeInFilth/Auto-DM-Discord"><img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=bluud"></a><a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL"><img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=bluud"></a></p>
 </details>
 <br/>
+=======
+## 🌤 Featured Projects
+<p align="center">
+  <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=bile">
+  </a>
+  <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=bile">
+  </a>
+</p>
+
+<br/><br/>
+
+
+
+<a href="https://github.com/CodeInFilth"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
+
+🗃Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/gif/basicProfile.gif" height="225px"/>
+>>>>>>> 7ca5c681b73f0aef4d80006394d5971d8b3faef1
 
 
 <!-- <details>-->
@@ -102,8 +132,11 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 <!-- </details> -->
 
 ---
+<<<<<<< HEAD
 <!--START_SECTION:waka-->
 <a align="right">I'm a night 🦉</a>
 <!--END_SECTION:waka-->
 
+=======
+>>>>>>> 7ca5c681b73f0aef4d80006394d5971d8b3faef1
 <p align="center">This <i>README</i> file is created by hand</br>Last edit: Saturday, 15 September, 03:50 PST</p>	
