@@ -14,8 +14,6 @@
                                     
 ```
 
-
-
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Editor-HTML5-informational?style=flat&logo=html5&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Code-Python3-informational?&logo=python&logoColor=white&style=flat&color=aeb5bc">
@@ -76,7 +74,14 @@
 <details>
   <summary>🌤&nbsp;Featured Projects</summary>
   <br/>
-<p align="center"><a href="https://github.com/CodeInFilth/Auto-DM-Discord"><img align="center" width="425px" src="https://github-readme-stats-swart-two.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue"></a><a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL"><img align="center" width="425px" src="https://github-readme-stats-swart-two.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue"></a></p>
+  <p align="center">
+      <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
+        <img align="center" width="425px" src="https://github-readme-stats-1skrho0bh-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue">
+      </a>
+      <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
+        <img align="center" width="425px" src="https://github-readme-stats-1skrho0bh-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue">
+      </a>
+  </p>
 </details>
 <br/>
 
