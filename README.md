@@ -4,6 +4,11 @@
   <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
 </a>
  -->
+ 
+<!--START_SECTION:waka-->
+I'm an early 🐤 
+<!--END_SECTION:waka-->
+
 
 ```text
                 :      :s     .       .         
@@ -114,12 +119,6 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
     <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=purge">
   </a>
 </p>
-
-
-<!--START_SECTION:waka-->
-<!-- I'm an early 🐤 -->
-<!--END_SECTION:waka-->
-
 
 <!-- continued projects insert--->
 
