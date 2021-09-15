@@ -1,45 +1,17 @@
-
-<!-- 
-<a href="https://github.com/CodeInFilth">
-  <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
-</a>
- -->
- 
 <!--START_SECTION:waka-->
-I'm an early 🐤 
 <!--END_SECTION:waka-->
-
-
 ```text
-                :      :s     .       .         
-                 :                 .     .      
-            .sl. ,     .       ..                    
-           .d$$sd$b,db.     ,        .:    .     _____ _ _   _           _       _____            __ _ _               
-          .d$$SS$$$$$$b,s    .,.,s,.   .,".     / ____(_) | | |         | |     |  __ \          / _(_) |     
-         .d$$$$$$8$$$$$$$bslqdS$$$$Sb,d$$$l    | |  __ _| |_| |__  _   _| |__   | |__) | __ ___ | |_ _| | ___ 
-        .dP§""§Ў$$$$$$$$$$$$$$$$$$$$$$$$$$b    | | |_ | | __| '_ \| | | | '_ \  |  ___/ '__/ _ \|  _| | |/ _ \
-        "'.,s. i$$$$$x$$$$$$$$$$$$$$§$$$$$$	   | |__| | | |_| | | | |_| | |_) | | |   | | | (_) | | | | |  __/
-       .dS$$$$ :$$8$$$$$$$$$$$$$$$$l `§Ў$$$     \_____|_|\__|_| |_|\__,_|_.__/  |_|   |_|  \___/|_| |_|_|\___|
-      .dS$$$$$: $888$$8$$$$$$$$$$$$'ls,.`§l     ~ Filthy_Trading#4878            ~ CodeInFilth Profolio V1:
-____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  ____ ____ ____ ____ ____ ____ _____  _ ____
-==== l$$$$$§"'  i$888$$8$x$888$$$$'l$$§$Џ' ==============================::::::::::':d$$*"' `:: :$$8$$l d$SЏ$$$$$$ :$§".,s
-   :$$$$$888$$8$$Si8$$$$8$x$8$$ i$, d$l      
-    $$$$$$$$$$$$Si8$$$$$$$$$$$i $$$:`4'      
-    I$88x$$SS$$$$$`""§ЏS$$$88$: $$$b.    ▄████▄   ▒█████  ▓█████▄ ▓█████     ██▓ ███▄    █      █████▒██▓ ██▓  ▄▄▄█████▓ ██░ ██       
-    i$8$$§'.."§Ў$$:  ,d$$$888$ i$8$$:    ██▀ ▀█  ▒██▒  ██▒▒██▀ ██▌▓█   ▀    ▓██▒ ██ ▀█   █    ▓██   ▒▓██▒▓██▒  ▓  ██▒ ▓▒▓██░ ██▒ 
-    :$$$:  $$$Sbss,.,"Y$$$$$$i I$8$$:    ▓█    ▄ ▒██░  ██▒░██   █▌▒███      ▒██▒▓██  ▀█ ██▒   ▒████ ░▒██▒▒██░  ▒ ▓██░ ▒░▒██▀▀██░ 
-     $$$$. l$$888$$$$bs,. `§d: $88$I'    ▓▓▄ ▄██▒▒██   ██░░▓█▄   ▌▒▓█  ▄    ░██░▓██▒  ▐▌██▒   ░▓█▒  ░░██░▒██░  ░ ▓██▓ ░ ░▓█ ░██ 
-     I$8$:`s`§Ў$$8888$$$$i: .: $88$i     ▓███▀ ░░ ████▓▒░░▒████▓ ░▒████▒   ░██░▒██░   ▓██░   ░▒█░   ░██░░██████▒▒██▒ ░ ░▓█▒░██▓
-     i$$$: $$$bs$$$$88$$$i' :':$$$i'     ░▒ ▒  ░░ ▒░▒░▒░  ▒▒▓  ▒ ░░ ▒░ ░   ░▓  ░ ▒░   ▒ ▒     ▒ ░   ░▓  ░ ▒░▓  ░▒ ░░    ▒ ░░▒░▒
-     :$8$i 4S$$88$$$$b.,"'.d$ i$"i'      ░  ▒     ░ ▒ ▒░  ░ ▒  ▒  ░ ░  ░    ▒ ░░ ░░   ░ ▒░    ░      ▒ ░░ ░ ▒  ░  ░     ▒ ░▒░ ░
-      $$8$bs,..`""§ЏS$$S'.d$l "          ░        ░ ░ ░ ▒   ░ ░  ░    ░       ▒ ░   ░   ░ ░     ░ ░    ▒ ░  ░ ░   ░       ░  ░░ ░
-      :$$888$$$S4bs,.`'',d$$: i:         ░          ░ ░     ░       ░  ░    ░           ░            ░      ░  ░        ░  ░  ░
-      `4$$88$"§Ў$$$$$Sbsd$$$ i:        
-       `4$$8$Sbs,d"$$$888$$n '         
-        `4$$$8888x$$$88$$$S"           
-          `4$$$8888$$$SЏ§"'            
-            `"§ЎSSSЏ§"'         
 
+                                          · S O U R C E  2 O 2 1 ·
+                                        ▄█████  ██  ██  ██      ██
+                                       ██▀▀▀▀▀  ▄▄  ██  ███████ █████▄
+                                       ██▄▄▄▄▄  ██  ██  ██▀▀▀▀▀ ██▀▀▀██
+                                       ██▀▀▀▀▀  ██  ▀█▄ ▀██▄▄▄▄ ██   ██
+                                       ▀▀       ▀▀   ▀▀  ▀▀▀▀▀▀ ▀▀   ▀▀
+                                         not everything is always clean
+               ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀                                      ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ 
+                                     -[*] please star any of my work! [*]-
+                                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 <p align="center">
@@ -51,14 +23,12 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
   <img align="center" src="https://img.shields.io/badge/Database-MS%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Query-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=aeb5bc">
- 
   <img align="center" src="https://img.shields.io/badge/Tools-PHP-informational?style=flat&logo=PHP&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white&color=aeb5bc" />
   <img align="center" src="https://img.shields.io/badge/Framework-Angular-DD0031?style=flat&logo=angular&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Tool-NPM-CB3837?style=flat&logo=npm&logoColor=white&color=aeb5bc">
   <img align="center" src="https://img.shields.io/badge/Code-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white&color=aeb5bc">
-<!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=TypeScript&logoColor=aeb5bc" /> -->
 </p>
 
 <p align="center">
@@ -74,15 +44,9 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
    <a target="_blank" rel="noopener noreferrer" href="#">
       <img align="center" src="https://img.shields.io/badge/Buy%20me%20Coffee-%24%20USD?color=28648a">
   </a>
-<!--    <a target="_blank" rel="noopener noreferrer" href="#">
-     <img align="center" src="https://img.shields.io/badge/php-%5E7.1.3-blue">
-  </a> -->
    <a target="_blank" rel="noopener noreferrer" href="#">
      <img align="center" src="https://img.shields.io/badge/uptime-99.999%25-green?color=28648a">
   </a>
-<!--    <a target="_blank" rel="noopener noreferrer" href="#">
-       <img align="center" src="https://img.shields.io/badge/python-3.8-blue&color=6aa6f8">
-   </a> -->
    <a target="_blank" rel="noopener noreferrer" href="#">
      <img align="center" src="https://img.shields.io/discord/826258453391081524?color=28648a">
    </a>
@@ -113,20 +77,17 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
 ## 🌤 Featured Projects
 <p align="center">
   <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
-    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=purge">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=bile">
   </a>
   <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
-    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=purge">
+    <img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=bile">
   </a>
 </p>
-
-<!-- continued projects insert--->
-
 
 <br/><br/>
 
 
-<!--- ddivider PSD  ??  -->
+
 <a href="https://github.com/CodeInFilth"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
 
 🗃Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard
@@ -150,8 +111,4 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 ```
 
 ---
-<p align="center">This <i>README</i> file is created by hand</br>Last edit: Saturday, 15 September, 03:50 PST</p>
-
-<!--
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/codeinfilth/codeinfilth?style=flat-square&labelColor=343b41"/>
--->
+<p align="center">This <i>README</i> file is created by hand</br>Last edit: Saturday, 15 September, 03:50 PST</p>	
