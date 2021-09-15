@@ -76,10 +76,9 @@
 <details>
   <summary>🌤&nbsp;Featured Projects</summary>
   <br/>
-<p align="center"><a href="https://github.com/CodeInFilth/Auto-DM-Discord"><img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=bluud"></a><a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL"><img align="center" width="425px" src="https://github-readme-stats-filthy.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=bluud"></a></p>
+<p align="center"><a href="https://github.com/CodeInFilth/Auto-DM-Discord"><img align="center" width="425px" src="https://github-readme-stats-swart-two.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue"></a><a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL"><img align="center" width="425px" src="https://github-readme-stats-swart-two.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue"></a></p>
 </details>
 <br/>
-
 
 <!-- <details>-->
   <h4>🗃Personal Stats&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⌚︎ Timezone: Pacific/Standard</h4>
