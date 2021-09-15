@@ -1,3 +1,4 @@
+
 <!-- 
 <a href="https://github.com/CodeInFilth">
   <img align="center" width="1080px" height="125px" src="https://github-widgetbox.vercel.app/api/profile?username=CodeInFilth&data=followers,repositories,stars,commits">
@@ -114,8 +115,11 @@ ____ .d$$$Џ§bs. $$88$$$$$$$$888$$$l.$$Sbs, _ ____ ____ _  _   _ __ _   ___  __
   </a>
 </p>
 
+
 <!--START_SECTION:waka-->
+<!-- I'm an early 🐤 -->
 <!--END_SECTION:waka-->
+
 
 <!-- continued projects insert--->
 
