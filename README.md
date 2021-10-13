@@ -64,25 +64,11 @@
 <details>
   <summary><b>📈&nbsp;Aurora Trading</b></summary>
   <br/>
-  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Aurora Trading is a community that takes pride in not just forcing alerts out to members and expecting a sheep-like following; but instead equipping YOU with the necessary tools :tools: and strategies :pencil: required to grant long-term financial freedom :money_with_wings: and portfolio growth to any willing individual :chart_with_upwards_trend: . Success isn’t an overnight game, however, you are giving yourself a much better shot by joining us.</a></p>  
+  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Aurora Trading is a community that takes pride in not just forcing alerts out to members and expecting a sheep-like following; but instead equipping YOU with the necessary tools and strategies :pencil: required to grant long-term financial freedom and portfolio growth to any willing individual . Success isn’t an overnight game, however, you are giving yourself a much better shot by joining us.</a></p>  
 </details>
 
 
 
-<br/>
-
-<details>
-  <summary>🌤&nbsp;Featured Projects</summary>
-  <br/>
-  <p align="center">
-      <a href="https://github.com/CodeInFilth/Auto-DM-Discord">
-        <img align="center" width="425px" src="https://github-readme-stats-4lfaexeu8-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Auto-DM-Discord&theme=defBlue">
-      </a>
-      <a href="https://github.com/CodeInFilth/Disc-DM-from-MYSQL">
-        <img align="center" width="425px" src="https://github-readme-stats-4lfaexeu8-codeinfilth.vercel.app/api/pin/?username=CodeInFilth&repo=Disc-DM-from-MYSQL&theme=defBlue">
-      </a>
-  </p>
-</details>
 <br/>
 
 <!-- <details>-->
