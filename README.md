@@ -44,27 +44,26 @@
    <a target="_blank" rel="noopener noreferrer" href="#">
       <img align="center" src="https://img.shields.io/badge/Buy%20me%20Coffee-%24%20USD?color=28648a">
   </a>
-   <a target="_blank" rel="noopener noreferrer" href="#">
+   <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/filthy_trades">
      <img align="center" src="https://img.shields.io/badge/uptime-99.999%25-green?color=28648a">
   </a>
-   <a target="_blank" rel="noopener noreferrer" href="#">
+    <a href="https://github.com/CodeInFilth"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
+<!--    <a target="_blank" rel="noopener noreferrer" href="#">
      <img align="center" src="https://img.shields.io/discord/826258453391081524?color=28648a">
-   </a>
-   <a target="_blank" rel="noopener noreferrer" href="#">
+   </a> -->
+<!--    <a target="_blank" rel="noopener noreferrer" href="#">
      <img align="center" src="https://img.shields.io/github/sponsors/codeinfilth?color=28648a">
-   </a>
-   <a target="_blank" rel="noopener noreferrer" href="#">
+   </a> -->
+<!--    <a target="_blank" rel="noopener noreferrer" href="#">
      <img align="center" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&amp;message=Stars&amp;style=style=flat&amp;color=28648a" alt="Star Badge">
-   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/CodeInFilth"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CodeInFilth.CodeInFilth"></a>
+   </a> -->
 </p>
 
+
 <details>
-  <summary><b>📈&nbsp;Aurora Trading</b></summary>
+  <summary><b>📈&nbsp;Stock Market Tools</b></summary>
   <br/>
-  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Aurora Trading is a community that takes pride in not just forcing alerts out to members and expecting a sheep-like following; but instead equipping YOU with the necessary tools and strategies required to grant long-term financial freedom and portfolio growth to any willing individual. Success isn’t an overnight game, however, you are giving yourself a much better shot by joining us.</a></p>  
+  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Trading is my primary income and so i will be updating this with useful tools and assets I use daily.</a></p>  
 </details>
 
 
