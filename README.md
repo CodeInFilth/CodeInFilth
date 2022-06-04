@@ -1,4 +1,6 @@
 
+<img width="250" align='center' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/1_codeinfilth.png">
+
 ```text
 
                                           · S O U R C E  2 O 2 1 ·
@@ -61,9 +63,16 @@
 
 
 <details>
-  <summary><b>📈&nbsp;Stock Market Tools</b></summary>
+  <summary><b>🔗&nbsp;Blockchain Development [Removed]</b></summary>
   <br/>
-  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Trading is my primary income and so i will be updating this with useful tools and assets I use daily.</a></p>  
+  <p><img width="250" align='left' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/blockchain.png"><a aligh="left">Blockchain Development software coming soon...</a></p>  
+</details>
+
+
+<details>
+  <summary><b>📈&nbsp;Stock Market Tools [Removed]</b></summary>
+  <br/>
+  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/logo_Aurora.png"><a aligh="right">Trading is my primary income I have taken down my trading tools right now while I focus on Blockchain Development.</a></p>  
 </details>
 
 
@@ -91,8 +100,4 @@ Photoshop CC              █░░░░░░░░░░░░░░░░░
 <!-- </details> -->
 
 ---
-<!--START_SECTION:waka-->
-<a align="right">I'm a night 🦉</a>
-<!--END_SECTION:waka-->
-
-<p align="center">This <i>README</i> file is created by hand</br>Last edit: Saturday, 17 September, 06:04 PST</p>	
+<a align="center">I'm a night 🦉</a>
