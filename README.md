@@ -1,20 +1,20 @@
 
 <img align='center' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/1_codeinfilth.png">
 
-```text
-
-                                          · S O U R C E  2 O 2 1 ·
-                                        ▄█████  ██  ██  ██      ██
-                                       ██▀▀▀▀▀  ▄▄  ██  ███████ █████▄
-                                       ██▄▄▄▄▄  ██  ██  ██▀▀▀▀▀ ██▀▀▀██
-                                       ██▀▀▀▀▀  ██  ▀█▄ ▀██▄▄▄▄ ██   ██
-                                       ▀▀       ▀▀   ▀▀  ▀▀▀▀▀▀ ▀▀   ▀▀
-                                         not everything is always clean
-               ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀                                      ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ 
-                                     -[*] please star any of my work! [*]-
-                                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-                                    
-```
+# ```text
+# 
+#                                           · S O U R C E  2 O 2 1 ·
+#                                         ▄█████  ██  ██  ██      ██
+#                                        ██▀▀▀▀▀  ▄▄  ██  ███████ █████▄
+#                                        ██▄▄▄▄▄  ██  ██  ██▀▀▀▀▀ ██▀▀▀██
+#                                        ██▀▀▀▀▀  ██  ▀█▄ ▀██▄▄▄▄ ██   ██
+#                                        ▀▀       ▀▀   ▀▀  ▀▀▀▀▀▀ ▀▀   ▀▀
+#                                          not everything is always clean
+#                ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀                                      ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀ 
+#                                      -[*] please star any of my work! [*]-
+#                                     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+#                                     
+# ```
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Editor-HTML5-informational?style=flat&logo=html5&logoColor=white&color=aeb5bc">
@@ -65,7 +65,7 @@
 <details>
   <summary><b>🔗&nbsp;Blockchain Development</b></summary>
   <br/>
-  <p><img height="175" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/blockchain.png"><a aligh="left">Blockchain Development software coming soon...Blockchain Development software coming soon...Blockchain Development software coming soon...</a></p>  
+  <p><img height="175" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/blockchain.png"><a align="left">Currently getting my blockchain development and smart contract certifications planning on cleaning up my GitHub to showcase that work. More blockchain development coming soon.</a></p>  
 </details>
 
 
