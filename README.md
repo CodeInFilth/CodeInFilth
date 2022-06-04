@@ -65,7 +65,7 @@
 <details>
   <summary><b>🔗&nbsp;Blockchain Development</b></summary>
   <br/>
-  <p><img width="250" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/blockchain.png"><a aligh="left">Blockchain Development software coming soon...Blockchain Development software coming soon...Blockchain Development software coming soon...</a></p>  
+  <p><img height="175" align='right' src="https://raw.githubusercontent.com/CodeInFilth/CodeInFilth/root/inc/png/blockchain.png"><a aligh="left">Blockchain Development software coming soon...Blockchain Development software coming soon...Blockchain Development software coming soon...</a></p>  
 </details>
 
 
