@@ -1,0 +1,31 @@
+/**
+ * @name Custom Slate: Moddify
+ * @author Filthy [ OG Gibbu#1211 & Tropical#8908 ]
+ * @version 1.2
+ * @invite TeRQEPb
+ * @description An optimized, consistent, and functional theme for Discord based on GitHub's design language.
+ * @source https://github.com/DiscordStyles/Slate/
+ * @website https://discordstyles.github.io/slate-theme/
+*/
+
+/*
+  Import Source Code 
+*/
+@import url("base.css");
+@import url("Slate.css");
+
+/*
+  Basic Variables
+  See available vars here: https://github.com/DiscordStyles/Slate/wiki
+*/
+:root {
+  /* Primary Colors */
+  --accent: 3, 102, 214;
+  --link-colour: 48, 144, 255;
+
+  /* Server List */
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+}
+
